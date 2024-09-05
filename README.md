@@ -19,8 +19,8 @@ Welcome to my portfolio! I am a **C++ Developer** currently working at **Feral I
   - Integrated 3D sensor data using Point Cloud Library (PCL).
   - Developed custom nodes for sensor data processing and robot control.
 
-### 2. **Android Application: [Project Name]**
-- **Description:** Developed an Android app to [describe app functionality], available on the Play Store.
+### 2. **Android Application: AlgoLearn**
+- **Description:** Developed an Android app to help early computer science student to learn and visualize algorithms (it's open source now :yee:).
 - **Technologies:** Java, Android Studio, Firebase
 - **Key Features:**
   - User authentication and real-time database integration.
@@ -53,13 +53,10 @@ Welcome to my portfolio! I am a **C++ Developer** currently working at **Feral I
 
 Feel free to reach out for any collaborations or inquiries:
 
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn URL]
-- **GitHub:** [Your GitHub Profile]
+- **Email:** bennabet2001@gmail.com
+- **LinkedIn:** [[Your LinkedIn URL]](https://www.linkedin.com/in/abderrahmane-bennabet-050080229/)
 
 ---
-
-*Thank you for visiting my portfolio!*
 
 
 
