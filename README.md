@@ -37,10 +37,9 @@ Welcome to my portfolio! I am a **C++ Developer** currently working at **Feral I
 
 ## 📈 Stats and Achievements
 
-- **5+ years of C++ development experience.**
-- Contributed to the successful launch of multiple AAA games at Feral Interactive.
-- [Any other notable achievements like certifications, awards, etc.]
-
+- **3+ years of C++ development experience.**
+- Contributed to the successful launch of multiple AAA games at Feral Interactive [ Hitman Blood Money, Sid Mair Railroads,..].
+  
 ## 🚀 How to Use This Portfolio
 
 1. **Explore Projects:** Navigate through the repository folders to find code examples and documentation for each project.
