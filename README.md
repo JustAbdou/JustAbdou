@@ -1,5 +1,66 @@
-# 💫 About Me:
-# Portfolio - C++ Developer<br><br>Welcome to my portfolio! I am a **C++ Developer** currently working at **Feral Interactive** with a strong background in Android development, robotics, and game development.<br><br>## 🛠️ Skills and Expertise<br><br>- **C++ Development:** Proficient in building efficient, scalable, and maintainable applications using C++.<br>- **Android Development:** Experience in creating Android applications using Java and Android Studio.<br>- **Robotics (ROS):** Worked on a significant university project using the Robot Operating System (ROS).<br>- **Game Development:** Collaborating on game development projects at Feral Interactive.<br><br>## 📂 Projects<br><br>### 1. **University Robotics Project (ROS)**<br>- **Description:** Designed and implemented a robot simulation using ROS, focusing on autonomous navigation and object recognition.<br>- **Technologies:** ROS, C++, Python<br>- **Key Features:**<br>  - Implemented autonomous path planning using A* and Dijkstra algorithms.<br>  - Integrated 3D sensor data using Point Cloud Library (PCL).<br>  - Developed custom nodes for sensor data processing and robot control.<br><br>### 2. **Android Application: [Project Name]**<br>- **Description:** Developed an Android app to [describe app functionality], available on the Play Store.<br>- **Technologies:** Java, Android Studio, Firebase<br>- **Key Features:**<br>  - User authentication and real-time database integration.<br>  - Push notifications and background services.<br>  - Material Design implementation.<br><br>### 3. **Game Development at Feral Interactive**<br>- **Description:** Contributed to the development and optimization of AAA game titles.<br>- **Technologies:** C++, OpenGL, DirectX<br>- **Key Contributions:**<br>  - Optimized rendering pipelines for improved game performance.<br>  - Debugged and fixed memory leaks and bottlenecks.<br>  - Collaborated with cross-functional teams to integrate new game mechanics.<br><br>## 📈 Stats and Achievements<br><br>- **5+ years of C++ development experience.**<br>- Contributed to the successful launch of multiple AAA games at Feral Interactive.<br>- [Any other notable achievements like certifications, awards, etc.]<br><br>## 🚀 How to Use This Portfolio<br><br>1. **Explore Projects:** Navigate through the repository folders to find code examples and documentation for each project.<br>2. **Run the Code:**<br>   - For C++ projects: Ensure you have the necessary dependencies installed, and follow the `README.md` files within each project directory.<br>   - For Android apps: Import the project into Android Studio and sync Gradle dependencies.<br>   - For ROS projects: Follow the setup instructions in the respective folder, ensuring ROS is installed on your system.<br><br>## 💬 Contact<br><br>Feel free to reach out for any collaborations or inquiries:<br><br>- **Email:** [Your Email]<br>- **LinkedIn:** [Your LinkedIn URL]<br>- **GitHub:** [Your GitHub Profile]<br><br>---<br><br>*Thank you for visiting my portfolio!*<br>
+# Portfolio - C++ Developer
+
+Welcome to my portfolio! I am a **C++ Developer** currently working at **Feral Interactive** with a strong background in Android development, robotics, and game development.
+
+## 🛠️ Skills and Expertise
+
+- **C++ Development:** Proficient in building efficient, scalable, and maintainable applications using C++.
+- **Android Development:** Experience in creating Android applications using Java and Android Studio.
+- **Robotics (ROS):** Worked on a significant university project using the Robot Operating System (ROS).
+- **Game Development:** Collaborating on game development projects at Feral Interactive.
+
+## 📂 Projects
+
+### 1. **University Robotics Project (ROS)**
+- **Description:** Designed and implemented a robot simulation using ROS, focusing on autonomous navigation and object recognition.
+- **Technologies:** ROS, C++, Python
+- **Key Features:**
+  - Implemented autonomous path planning using A* and Dijkstra algorithms.
+  - Integrated 3D sensor data using Point Cloud Library (PCL).
+  - Developed custom nodes for sensor data processing and robot control.
+
+### 2. **Android Application: [Project Name]**
+- **Description:** Developed an Android app to [describe app functionality], available on the Play Store.
+- **Technologies:** Java, Android Studio, Firebase
+- **Key Features:**
+  - User authentication and real-time database integration.
+  - Push notifications and background services.
+  - Material Design implementation.
+
+### 3. **Game Development at Feral Interactive**
+- **Description:** Contributed to the development and optimization of AAA game titles.
+- **Technologies:** C++, OpenGL, DirectX
+- **Key Contributions:**
+  - Optimized rendering pipelines for improved game performance.
+  - Debugged and fixed memory leaks and bottlenecks.
+  - Collaborated with cross-functional teams to integrate new game mechanics.
+
+## 📈 Stats and Achievements
+
+- **5+ years of C++ development experience.**
+- Contributed to the successful launch of multiple AAA games at Feral Interactive.
+- [Any other notable achievements like certifications, awards, etc.]
+
+## 🚀 How to Use This Portfolio
+
+1. **Explore Projects:** Navigate through the repository folders to find code examples and documentation for each project.
+2. **Run the Code:**
+   - For C++ projects: Ensure you have the necessary dependencies installed, and follow the `README.md` files within each project directory.
+   - For Android apps: Import the project into Android Studio and sync Gradle dependencies.
+   - For ROS projects: Follow the setup instructions in the respective folder, ensuring ROS is installed on your system.
+
+## 💬 Contact
+
+Feel free to reach out for any collaborations or inquiries:
+
+- **Email:** [Your Email]
+- **LinkedIn:** [Your LinkedIn URL]
+- **GitHub:** [Your GitHub Profile]
+
+---
+
+*Thank you for visiting my portfolio!*
+
 
 
 # 💻 Tech Stack:
