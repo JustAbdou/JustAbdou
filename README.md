@@ -53,8 +53,8 @@ Welcome to my portfolio! I am a **C++ Developer** currently working at **Feral I
 Feel free to reach out for any collaborations or inquiries:
 
 - **Email:** bennabet2001@gmail.com
-- **LinkedIn:** [[My LinkedIn]](https://www.linkedin.com/in/abderrahmane-bennabet-050080229/)
-- **Website:** [[My website]](www.bennabet.com)
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/abderrahmane-bennabet-050080229/)
+- **Website:** [My website](www.bennabet.com)
 
 ---
 
